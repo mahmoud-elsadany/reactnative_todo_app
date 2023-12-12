@@ -7,8 +7,10 @@ This is a simple Todo application built using React Native, with local storage p
 ## ScreenShots
 
 ![Todo App Screenshot](screenshots/Screenshot1.png)
-
-
+![Todo App Screenshot](screenshots/Screenshot2.png)
+![Todo App Screenshot](screenshots/Screenshot3.png)
+![Todo App Screenshot](screenshots/Screenshot4.png)
+![Todo App Screenshot](screenshots/Screenshot5.png)
 
 ## Features
 
