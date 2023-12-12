@@ -6,7 +6,7 @@ This is a simple Todo application built using React Native, with local storage p
 
 ## ScreenShots
 
-<br><br>
+
 <img src="screenshots/Screenshot1.png" alt="Todo App Screenshot 1" width="300" />
 Home page of the app
 <br><br>
