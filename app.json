@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "notes_app",
-    "slug": "notes_app",
+    "name": "Itworx-todo-app",
+    "slug": "Itworx-todo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

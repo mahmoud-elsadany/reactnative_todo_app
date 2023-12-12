@@ -1,12 +1,36 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import Home from './screens/Home';
+import DetailTask from './screens/DetailTask';
+import AddTask from './screens/AddTask';
+import { initializeDatabase } from './db/db';
+import { NavigationContainer } from '@react-navigation/native';
+
+
 
 export default function App() {
+  console.log('start App');
+  initializeDatabase()
+    .then(() => {
+      console.log('Initialized database');
+    })
+    .catch(err => {
+      console.log('Initializing db failed.');
+      console.log(err);
+    });
+  const Stack = createNativeStackNavigator()
+
+
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <NavigationContainer>
+      <Stack.Navigator screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="DetailTask" component={DetailTask} />
+        <Stack.Screen name="AddTask" component={AddTask} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
 
