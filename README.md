@@ -66,9 +66,9 @@ multi items in the task list and filter them by search
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/todo-app.git`
+1. Clone the repository: `git clone https://github.com/mahmoud-elsadany/reactnative_todo_app.git`
 3. Install dependencies: `npm install`
-4. Run the application: `npx react-native run-android` or `npx react-native run-ios`
+4. Run the application: `npm start`
 
 ## Usage
 
@@ -76,8 +76,13 @@ multi items in the task list and filter them by search
 2. Create tasks by entering task details and selecting a color.
 3. Delete tasks by swiping left or using the delete option.
 4. Use the search bar to filter tasks based on keywords.
-5. Apply color filters to narrow down your task list.
+
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Contact
+
+Go visit my website from here <a href="http://mahmoudelsadany.space/">Mahmoud Elsadany</a>
+ 
