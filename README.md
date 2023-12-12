@@ -12,6 +12,12 @@ This is a simple Todo application built using React Native, with local storage p
 ![Todo App Screenshot](screenshots/Screenshot4.png)
 ![Todo App Screenshot](screenshots/Screenshot5.png)
 
+<img src="screenshots/Screenshot1.png" alt="Todo App Screenshot 1" width="300" />
+<img src="screenshots/Screenshot2.png" alt="Todo App Screenshot 2" width="300" />
+<img src="screenshots/Screenshot3.png" alt="Todo App Screenshot 3" width="300" />
+
+
+
 ## Features
 
 ### 1. Task Creation
