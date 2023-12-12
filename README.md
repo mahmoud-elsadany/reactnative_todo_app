@@ -6,24 +6,36 @@ This is a simple Todo application built using React Native, with local storage p
 
 ## ScreenShots
 
-Home page of the app
+<br><br>
 <img src="screenshots/Screenshot1.png" alt="Todo App Screenshot 1" width="300" />
-<br>
-one item in the task list
+Home page of the app
+<br><br>
+
+---
+
+
 <img src="screenshots/Screenshot2.png" alt="Todo App Screenshot 2" width="300" />
-<br>
-Adding new task screen and validate the length of description
+one item in the task list
+<br><br>
+
+---
+
 <img src="screenshots/Screenshot3.png" alt="Todo App Screenshot 3" width="300" />
+Adding new task screen and validate the length of description
+<br><br>
 
-<br>
-After click upload and the toast shown
+---
+
 <img src="screenshots/Screenshot4.png" alt="Todo App Screenshot 3" width="300" />
+After click upload and the toast shown
+<br><br>
 
-<br>
-multi items in the task list and filter them by search
+---
+
 <img src="screenshots/Screenshot5.png" alt="Todo App Screenshot 3" width="300" />
 
-
+multi items in the task list and filter them by search
+<br><br>
 
 ## Features
 
