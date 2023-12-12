@@ -4,6 +4,12 @@
 
 This is a simple Todo application built using React Native, with local storage powered by SQLite. The application allows users to create, delete, and filter tasks. Each task can be associated with a specific color for better organization.
 
+## ScreenShots
+
+![Todo App Screenshot](screenshots/Screenshot1.png)
+
+
+
 ## Features
 
 ### 1. Task Creation
